@@ -1,1 +1,1 @@
-[] execVM "safzones\init.sqf";
+[] execVM "safezones\init.sqf";

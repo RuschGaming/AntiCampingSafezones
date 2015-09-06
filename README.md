@@ -21,6 +21,6 @@ class CfgExileCustomCode
 	ExileClient_object_player_event_onLeaveSafezone = "safezones\GG_object_player_event_onLeaveSafezone.sqf";
 };
 ```
-* NOTE : Make sure you keep all other CustomCode Lines in your CfgExileCustomCode function. *
+* NOTE : If you have any **CfgExileCustomCode** Overrides already. Make sure to keep them with this code as well. 
 
 8. Youre Done. 
