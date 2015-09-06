@@ -14,13 +14,13 @@ Installation (per-machine)
 6. Look for `class CfgExileCustomCode`
 7. Replace the whole block with this:
 
-`
+```
 class CfgExileCustomCode 
 {
 	ExileClient_object_player_event_onEnterSafezone = "safezones\GG_object_player_event_onEnterSafezone.sqf";
 	ExileClient_object_player_event_onLeaveSafezone = "safezones\GG_object_player_event_onLeaveSafezone.sqf";
 };
-`
+```
 * NOTE : Make sure you keep all other CustomCode Lines in your CfgExileCustomCode function. *
 
 8. Youre Done. 
