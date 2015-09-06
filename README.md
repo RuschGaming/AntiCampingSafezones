@@ -1,7 +1,7 @@
 Anti Camping Safezones By GR8
 =============
 
-Made to prevent campers shooting people going in and out of safezones. There is a timer to protect your from any harm and give you enough time to get to safety. People cannot follow others outside a safezone becuase they will not be able to shoot. This is highly configurable and still a WIP.
+Made to prevent campers shooting people going in and out of safezones. There is a timer to protect you from any harm and give you enough time to get to safety. People cannot follow others outside a safezone becuase they will not be able to shoot. This is highly configurable and still a WIP.
 
 Installation (per-machine)
 --------------------------
@@ -22,5 +22,3 @@ class CfgExileCustomCode
 };
 ```
 * NOTE : If you have any **CfgExileCustomCode** Overrides already. Make sure to keep them with this code as well. 
-
-8. Youre Done. 
