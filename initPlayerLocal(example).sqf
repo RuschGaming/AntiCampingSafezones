@@ -1,0 +1,1 @@
+[] execVM "safzones\init.sqf";
