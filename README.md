@@ -29,7 +29,7 @@ EXTRA STEPS
 
 1. open `addons\exile_server_config\CfgSettings.hpp`.
 2. Look for  `bambi = -500;`.
-3. Add this below `safezone = -800;		// Safezone Campers by GR8`
+3. Add this below `safezone = -800;		// Safezone Campers by GR8`. This is the respect the camper will loose, change it to your liking.
 4. copy `ExileServer_object_player_event_onMpKilled.sqf` from the download.
 5. Replace it in `addons\exile_server\code`.
 
