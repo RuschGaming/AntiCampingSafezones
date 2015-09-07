@@ -22,3 +22,14 @@ class CfgExileCustomCode
 };
 ```
 * NOTE : If you have any **CfgExileCustomCode** Overrides already. Make sure to keep them with this code as well. 
+
+EXTRA STEPS
+--------------------------
+* NOTE : You Don't need to follow these steps if you are using `LooseRespect = false;`. You must do the follow if you have `LooseRespect = true;`.
+
+1. open `addons\exile_server_config\CfgSettings.hpp`.
+2. Look for  `bambi = -500;`.
+3. Add this below `safezone = -800;		// Safezone Campers by GR8`
+4. copy `ExileServer_object_player_event_onMpKilled.sqf` from the download.
+5. Replace it in `addons\exile_server\code`.
+
