@@ -30,9 +30,8 @@ if !(ProtectVehicles) then {
 		};		
 	};
 };
-
+_isBambi = player getVariable["ExileIsBambi", false];
 if (LooseRespect) then {
-	_isBambi = player getVariable["ExileIsBambi", false];
 	if !(_isBambi) then {
 		player setVariable ["ExileIsBambi", true];
 	};
