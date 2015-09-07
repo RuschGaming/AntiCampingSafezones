@@ -3,7 +3,7 @@ Anti Camping Safezones By GR8
 
 Made to prevent campers shooting people going in and out of safezones. There is a timer to protect you from any harm and give you enough time to get to safety. People cannot follow others outside a safezone becuase they will not be able to shoot. This is highly configurable and still a WIP.
 
-Installation (per-machine)
+Installation
 --------------------------
 
 1. Download [`AntiCampingSafezones`](https://github.com/Gr8z/AntiCampingSafezones/archive/master.zip),
