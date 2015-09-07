@@ -9,7 +9,7 @@ Installation (per-machine)
 1. Download [`AntiCampingSafezones`](https://github.com/Gr8z/AntiCampingSafezones/archive/master.zip),
 2. Move the `safezone` folder into your Mission PBO.
 3. Open your `initPlayerLocal.sqf`.
-4. add `[] execVM "safzones\init.sqf";` to the very top.
+4. add `[] execVM "safzones\config.sqf";` to the very top.
 5. Open your `config.cpp`.
 6. Look for `class CfgExileCustomCode`
 7. Replace the whole block with this:
